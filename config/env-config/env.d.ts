@@ -1,0 +1,8 @@
+declare const ENV_SERVER_URL
+declare const ENV_WIDGET_API_ENDPOINT
+
+declare const ENV_WEBSOCKET_URL
+declare const ENV_WEBSOCKET_ENDPOINT
+
+declare const ENV_INTEGRATION_NAME: string
+declare const ENV_WIDGET_CONTROLLER_URL

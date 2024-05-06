@@ -1,0 +1,8 @@
+export type Env = {
+	ENV_SERVER_URL?: string
+	ENV_WIDGET_API_ENDPOINT?: string
+	ENV_WEBSOCKET_URL: string
+	ENV_WEBSOCKET_ENDPOINT?: string
+	ENV_INTEGRATION_NAME?: string
+	ENV_WIDGET_CONTROLLER_URL?: string
+}
